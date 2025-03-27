@@ -18,6 +18,7 @@ $ npm run dev
 ## Reference
 
 - Detailed
+- [three-stlib(Standalone version of threejs/examples/sm written in Typescript & build for ESM & CJS)](https://github.com/pmndrs/three-stdlib)
 
 ## Author
 
