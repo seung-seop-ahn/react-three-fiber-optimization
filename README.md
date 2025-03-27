@@ -15,6 +15,10 @@ $ npm install three @react-three/drei @react-three/fiber
 $ npm run dev
 ```
 
+## Reference
+
+- Detailed
+
 ## Author
 
 👤 **Kevin Ahn**
