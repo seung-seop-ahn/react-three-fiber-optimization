@@ -6,6 +6,7 @@
 
 ```sh
 $ npm create vite@latest react-three-fiber-optimization -- --template react
+$ npm install three @react-three/drei @react-three/fiber
 ```
 
 ## Usage

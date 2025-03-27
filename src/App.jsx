@@ -1,10 +1,11 @@
+import { MainCanvas } from './components/MainCanvas';
 
 function App() {
   return (
-    <>
-      <h1>Hello World</h1>
-    </>
-  )
+    <div style={{ width: '100vw', height: '100vh' }}>
+      <MainCanvas />
+    </div>
+  );
 }
 
 export default App
