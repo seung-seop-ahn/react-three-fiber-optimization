@@ -2,6 +2,7 @@ import { OrbitControls } from '@react-three/drei';
 import { Canvas } from '@react-three/fiber';
 import * as THREE from 'three';
 import { InstancedBoxes } from './InstancedBoxes';
+import { MergedMesh } from './MergedMesh';
 
 export const MainCanvas = () => {
   return (
@@ -26,7 +27,8 @@ export const MainCanvas = () => {
         position={[100, 100, 100]}
       />
       <OrbitControls />
-      <InstancedBoxes />
+      {/* <InstancedBoxes /> */}
+      <MergedMesh />
     </Canvas>
   );
 };
